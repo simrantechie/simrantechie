@@ -7,7 +7,7 @@
 
 `Swift` `SwiftUI`
 
-`Git` `GitLab` `Bitbucket`
+`Git` `GitLab` `Github` `Bitbucket`
 
  `Xcode`
 
