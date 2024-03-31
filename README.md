@@ -7,11 +7,11 @@
 
 `Swift` `SwiftUI`
 
-`Git` `GitLab` `Github` `Bitbucket`
+`Git` `GitLab` `GitHub` `Bitbucket`
 
  `Xcode`
  
- `GithubActions`
+ `GitHub Actions`
 
 `Postman` `Jira`
 
