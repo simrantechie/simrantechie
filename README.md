@@ -11,7 +11,7 @@
 
  `Xcode`
  
- `Github Actions`
+ `GithubActions`
 
 `Postman` `Jira`
 
