@@ -10,6 +10,8 @@
 `Git` `GitLab` `Github` `Bitbucket`
 
  `Xcode`
+ 
+ `Github Actions`
 
 `Postman` `Jira`
 
