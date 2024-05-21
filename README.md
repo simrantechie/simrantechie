@@ -7,6 +7,8 @@
 
 `Swift` `SwiftUI`
 
+`Combine` `MVVM`
+
 `Git` `GitLab` `GitHub` `Bitbucket`
 
  `Xcode`
